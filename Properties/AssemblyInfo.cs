@@ -6,11 +6,7 @@ using System.Windows.Markup;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("QuickConverter")]
 [assembly: AssemblyDescription("QuickConverter provides you with WPF markup that allows you to write inline converters and multi-bindings using a C# like language directly in your xaml.")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("iQmetrix")]
-[assembly: AssemblyProduct("QuickConverter")]
 [assembly: AssemblyCopyright("Johannes Moersch © 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -33,8 +29,6 @@ using System.Windows.Markup;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.2.5.0")]
-[assembly: AssemblyFileVersion("1.2.5.0")]
 
 [assembly: XmlnsDefinition("http://QuickConverter.CodePlex.com/", "QuickConverter")]
 [assembly: XmlnsPrefix("http://QuickConverter.CodePlex.com/", "qc")]
